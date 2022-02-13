@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "com.github.dsfhdshdjtsb.feudalism.Feudalism"
+    ],
+    "terrablender": [
+      "com.github.dsfhdshdjtsb.feudalism.Feudalism"
     ]
   },
   "mixins": [
